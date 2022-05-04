@@ -2,7 +2,7 @@
 
 ### What can you expect here?
 
-<img width="40%" align="right" alt="Github Header" src="profile/github-header.svg" />
+<img width="40%" align="right" alt="Github Header" src="github-header.svg" />
 
 - All projects made during our time at the TBZ 🎓
 - Most projects work, just very minimal ✅
