@@ -6,7 +6,7 @@
 
 - Most projects made during our time at the TBZ and ZLI 🎓
 - Most projects work, just very minimal ✅
-- The quality of all this code is **neither perfect nor secure**. This projects are only school projects, fulfilling the very bare minimal requirements (fuck it, ship it) 🍷
+- The quality of this code is **neither perfect nor secure**. This projects are only school projects, fulfilling the very bare minimal requirements (fuck it, ship it) 🍷
 - Don't expect anything too big! 🔥
 
 ### What can you do with this?
