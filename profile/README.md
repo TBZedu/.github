@@ -14,3 +14,5 @@ Take inspiration but don't be a copy cat without giving credits. Just respect th
 
 #### Student Pack
 If you are a student, check out the [GitHub Student Pack](https://education.github.com/pack/offers) to unlock many free offers or discounts.
+
+![](https://komarev.com/ghpvc/?username=tbzedu)
