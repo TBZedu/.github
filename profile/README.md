@@ -14,9 +14,3 @@ Take inspiration but don't be a copy cat without giving credits. Just respect th
 
 #### Student Pack
 If you are a student, check out the [GitHub Student Pack](https://education.github.com/pack/offers) to unlock many free offers or discounts.
-
----
-
-In case you support this, feel free to buy me a coffee :)  
-  
-<a href='https://ko-fi.com/F2F59PEW9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
